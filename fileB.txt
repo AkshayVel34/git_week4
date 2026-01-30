@@ -1,0 +1,1 @@
+New text in fileB.txt from studentB
