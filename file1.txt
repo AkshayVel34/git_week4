@@ -1,2 +1,3 @@
 New line for file1.txt on feature
 New third line for file.txt featureA
+New Third line in file1.txt on featureX
